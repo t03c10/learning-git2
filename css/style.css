@@ -1,0 +1,9 @@
+body { background-color: #313234; }
+
+.container { width: 100%; max-width: 1200px; margin: 0 auto; }
+
+header { text-align: center; color: #F6F6F6; }
+
+.lyrics { line-height: 1.5; color: #FDFFDC; margin: auto; padding: 7px 10px; width: 401px; text-align: center; }
+
+.nag1 { color: #FDFFDC; }
